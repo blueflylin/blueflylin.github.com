@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://linyee.org
-title: bluefly's Blog
-subtitle: 一个热爱前端的屌丝.
-author: linyi
+url: http://blueflylin.github.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
 description:
 
