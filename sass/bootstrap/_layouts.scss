@@ -6,7 +6,6 @@
 
 // Container (centered, fixed-width layouts)
 .container {
-	padding-top:60px;
   @include container-fixed();
 }
 
